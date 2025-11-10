@@ -1,0 +1,22 @@
+# Node / Vite / React
+node_modules/
+dist/
+.env
+.vite
+
+# Java / Spring Boot
+/backend/target/
+**/target/
+*.class
+*.jar
+*.war
+.settings/
+.project
+.classpath
+*.iml
+/.idea/
+
+# OS / Editor
+.DS_Store
+.vscode/
+*.log
